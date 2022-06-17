@@ -8,7 +8,7 @@ PyGame is a set of Python modules created for designing 2D video games. It has a
 ~~~python
 import pygame
 ~~~
-2 Initiate Game
+2) Initiate Game
 ~~~python
 pygame.init()
 ~~~
