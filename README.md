@@ -21,7 +21,7 @@ pygame.display.set_caption("Celestial Games")
 ~~~
 4) Set Game Values
 ~~~python
-FPS = 70 #FreqPerSec
+FPS = 70 #Frequency Per Second
 clock = pygame.time.Clock()
 
 PLAYER_LIFEPOINTS = 5
@@ -41,7 +41,7 @@ font = pygame.font.SysFont("centurygothic", 32) #(name: _FileArg | None, size: i
 #Text
 text = font.render("I am text", True, (255, 255, 255)) #(text: str | bytes, antialias: bool, color: _ColorValue, background: _ColorValue | None = None)
 ~~~
-7) Main Game Loop
+6) Main Game Loop
 This is where one controls how the game works
 ~~~python
 running = True
@@ -54,7 +54,7 @@ while running:
     pygame.display.update()
     clock.tick(FPS)
 ~~~
-11) End Game
+7) End Game
 ~~~python
 pygame.quit()
 ~~~
