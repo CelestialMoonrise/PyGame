@@ -3,6 +3,10 @@
 #### Overview
 PyGame is a set of Python modules created for designing 2D video games. It has a large SDL(Simple DirectMedia Layer) that includes computer graphics and audio resources. In this project, I began with learning about the basic structure of any game and was ultimately able to create video games via PyGame.
 
+#### Basic Game Structure
+1) Initiate game
+2) 
+
 #### Resources
 * https://www.fontspace.com/commercial-fonts
 * https://iconarchive.com/
