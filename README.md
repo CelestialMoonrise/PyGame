@@ -6,6 +6,7 @@ PyGame is a set of Python modules created for designing 2D video games. It has a
 #### Basic Game Structure
 1) Initiate game
 2) 
+3) 
 
 #### Resources
 * https://www.fontspace.com/commercial-fonts
