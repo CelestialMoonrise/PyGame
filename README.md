@@ -42,9 +42,22 @@ font = pygame.font.SysFont("centurygothic", 32) #(name: _FileArg | None, size: i
 text = font.render("I am text", True, (255, 255, 255)) #(text: str | bytes, antialias: bool, color: _ColorValue, background: _ColorValue | None = None)
 ~~~
 7) Main Game Loop
+This is where one controls how the game works
 ~~~python
+running = True
+while running:
+    #Quit?
+    for event in pygame.event.get():
+        if event.type==pygame.QUIT:
+            running = False
+    #Update
+    pygame.display.update()
+    clock.tick(FPS)
 ~~~
 11) End Game
+~~~python
+pygame.quit()
+~~~
 #### Resources
 * https://www.fontspace.com/commercial-fonts
 * https://iconarchive.com/
