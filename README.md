@@ -75,3 +75,4 @@ Creative Commons Attribution 3.0 Unported License
 https://creativecommons.org/licenses/by/3.0/deed.en_US 
 * <a href="https://www.flaticon.com/free-icons/diamond" title="diamond icons">Diamond icons created by Freepik - Flaticon</a>
 * <a href="https://www.flaticon.com/free-icons/gem" title="gem icons">Gem icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/mine" title="mine icons">Mine icons created by Freepik - Flaticon</a>
