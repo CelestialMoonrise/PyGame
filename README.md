@@ -77,3 +77,7 @@ https://creativecommons.org/licenses/by/4.0/
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
 Music promoted by https://www.chosic.com/free-music/all/ 
+*Folk Arabian by PeriTune | http://peritune.com
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons Attribution 3.0 Unported License
+https://creativecommons.org/licenses/by/3.0/deed.en_US 
