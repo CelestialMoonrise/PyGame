@@ -73,4 +73,7 @@ https://creativecommons.org/licenses/by/4.0/
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
- 
+*Monkeys Spinning Monkeys Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+Music promoted by https://www.chosic.com/free-music/all/ 
