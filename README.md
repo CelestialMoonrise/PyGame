@@ -65,20 +65,21 @@ pygame.quit()
 * https://www.leshylabs.com/apps/sfMaker/
 * https://www.gameart2d.com/freebies.html
 * https://opengameart.org/
-*Charlotte by Damiano Baldoni | https://soundcloud.com/damiano_baldoni
+* Charlotte by Damiano Baldoni | https://soundcloud.com/damiano_baldoni
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
-*After the Rain by Keys of Moon | https://soundcloud.com/keysofmoon
+* After the Rain by Keys of Moon | https://soundcloud.com/keysofmoon
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons CC BY 4.0
 https://creativecommons.org/licenses/by/4.0/
-*Monkeys Spinning Monkeys Kevin MacLeod (incompetech.com)
+* Monkeys Spinning Monkeys Kevin MacLeod (incompetech.com)
 Licensed under Creative Commons: By Attribution 3.0 License
 http://creativecommons.org/licenses/by/3.0/
 Music promoted by https://www.chosic.com/free-music/all/ 
-*Folk Arabian by PeriTune | http://peritune.com
+* Folk Arabian by PeriTune | http://peritune.com
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons Attribution 3.0 Unported License
 https://creativecommons.org/licenses/by/3.0/deed.en_US 
-*<a href="https://www.flaticon.com/free-icons/diamond" title="diamond icons">Diamond icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/diamond" title="diamond icons">Diamond icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/gem" title="gem icons">Gem icons created by Freepik - Flaticon</a>
