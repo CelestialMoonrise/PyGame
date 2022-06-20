@@ -81,3 +81,4 @@ Music promoted by https://www.chosic.com/free-music/all/
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons Attribution 3.0 Unported License
 https://creativecommons.org/licenses/by/3.0/deed.en_US 
+*<a href="https://www.flaticon.com/free-icons/diamond" title="diamond icons">Diamond icons created by Freepik - Flaticon</a>
