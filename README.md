@@ -65,3 +65,8 @@ pygame.quit()
 * https://www.leshylabs.com/apps/sfMaker/
 * https://www.gameart2d.com/freebies.html
 * https://opengameart.org/
+*Charlotte by Damiano Baldoni | https://soundcloud.com/damiano_baldoni
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+ 
